@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/lnieto44/depliegue_hook.git/static/css/main.1a8a0596.css",
-    "main.js": "/lnieto44/depliegue_hook.git/static/js/main.6592fe70.js",
-    "index.html": "/lnieto44/depliegue_hook.git/index.html",
-    "main.1a8a0596.css.map": "/lnieto44/depliegue_hook.git/static/css/main.1a8a0596.css.map",
-    "main.6592fe70.js.map": "/lnieto44/depliegue_hook.git/static/js/main.6592fe70.js.map"
+    "main.css": "/depliegue_hook/static/css/main.1a8a0596.css",
+    "main.js": "/depliegue_hook/static/js/main.6592fe70.js",
+    "index.html": "/depliegue_hook/index.html",
+    "main.1a8a0596.css.map": "/depliegue_hook/static/css/main.1a8a0596.css.map",
+    "main.6592fe70.js.map": "/depliegue_hook/static/js/main.6592fe70.js.map"
   },
   "entrypoints": [
     "static/css/main.1a8a0596.css",
